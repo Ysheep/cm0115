@@ -6,5 +6,6 @@ public class Test01 {
 		System.out.println("Hello github EGit");
 		System.out.println("ok, github EGit return");
 		System.out.println("github update return02");
+		System.out.println("local update 01");
 	}
 }
